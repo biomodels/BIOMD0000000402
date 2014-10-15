@@ -1,3 +1,21 @@
+# BIOMD0000000402: Ayati2010_BoneRemodelingDynamics_WithTumour
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000402.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000402.git@20140916`
+
+
+# Model Notes
 
 
 This a model from the article:  
@@ -44,4 +62,5 @@ agreement.
 Beyond these, there are several mismatches between the equation numbers that
 are mentioned in for each equation and the reference that has been made to
 these equations in the figure legend.
+
 
